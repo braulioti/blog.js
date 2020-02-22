@@ -17,12 +17,15 @@ Stay up to date with the latest release and announcements on Twitter:
   - PostgreSQL Database
   - Typescript
   
-## Quickstart
+## Install Project
 
   - `npm install -g typescript`
   - `npm install`
-  - `tsc`
-  - `node dist/main.js`
+  - `run
+  
+## Quickstart
+
+  - Configure your application in dist/config.ts
 
 ## Versioning
 
