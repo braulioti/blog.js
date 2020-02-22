@@ -14,8 +14,8 @@ const pageBuilder = new PageBuilder();
 
 app.get('/', function (req, res) { pageBuilder.build(req, res); });
 app.get('/:page', function (req, res) { pageBuilder.build(req, res); });
-app.get('/:page/:plugin', function (req, res) { pageBuilder.build(req, res); });
-app.get('/:page/:plugin/:options', function (req, res) { pageBuilder.build(req, res); });
+app.get('/:page/:action', function (req, res) { pageBuilder.build(req, res); });
+app.get('/:page/:action/:options', function (req, res) { pageBuilder.build(req, res); });
 
 app.listen(config.server_port, function () {
     console.log(`Blog.js listening on port ${config.server_port}!`)
