@@ -21,7 +21,7 @@ Stay up to date with the latest release and announcements on Twitter:
 
   - `npm install -g typescript`
   - `npm install`
-  - `run
+  - `npm run blog`
   
 ## Quickstart
 
