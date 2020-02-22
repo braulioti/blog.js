@@ -1,4 +1,4 @@
-# [Blog.js v0.1.0-beta.1](https://brau.io)
+# [Blog.js v0.1.0](https://brau.io)
 ## Blog.js
 
 [![Twitter: @braulio_info](https://img.shields.io/badge/contact-@braulio_info-blue.svg?style=flat)](https://twitter.com/braulio_info)
@@ -15,6 +15,14 @@ Stay up to date with the latest release and announcements on Twitter:
 
   - NodeJS
   - PostgreSQL Database
+  - Typescript
+  
+## Quickstart
+
+  - `npm install -g typescript`
+  - `npm install`
+  - `tsc`
+  - `node dist/main.js`
 
 ## Versioning
 
