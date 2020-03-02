@@ -1,4 +1,4 @@
-# [Blog.js v1.0.0](https://brau.io)
+# [Blog.js v1.0.0 (Deprecated)](https://brau.io)
 ## Blog.js
 
 [![Twitter: @braulio_info](https://img.shields.io/badge/contact-@braulio_info-blue.svg?style=flat)](https://twitter.com/braulio_info)
